@@ -67,11 +67,11 @@ function App() {
   const classes = styles();
   return (
     <div className="App">
-      <header>
+      {/* <header>
         <img src={logo} className="App-logo" alt="logo" />
         <h1>We now have Auth!</h1>
-      </header>
-      <AmplifySignOut />
+      </header> */}
+      
       <ThemeProvider theme={theme}>
         <NavBar/>
         <div className={classes.wrapper}>
@@ -99,20 +99,5 @@ function App() {
     </div>
   );
 }
-
-// export default App;
-
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <header>
-//         <img src={logo} className="App-logo" alt="logo" />
-//         <h1>We now have Auth!</h1>
-//       </header>
-//       <AmplifySignOut />
-//     </div>
-//   );
-// }
 
 export default withAuthenticator(App);
