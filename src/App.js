@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import { createTheme, ThemeProvider, makeStyles } from '@material-ui/core/styles';
-import NavBar from './components/NavBar'
-import Grid from './components/Grid'
-import Footer from './components/Footer'
+import NavBar from './Components/NavBar'
+import Grid from './Components/Grid'
+import Footer from './Components/Footer'
 import './App.css';
 import {Typography} from '@material-ui/core'; 
 
@@ -15,7 +15,7 @@ import ImportExportIcon from '@material-ui/icons/ImportExport';
 import ComputerIcon from '@material-ui/icons/Computer';
 import HttpIcon from '@material-ui/icons/Http';
 
-const theme = createMuiTheme({
+const theme = createTheme({
   palette: {
     primary: {
       main:"#2e1667",

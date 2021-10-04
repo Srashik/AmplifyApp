@@ -1,7 +1,7 @@
 import React from 'react'
 import CustomButton from './CustomButton'
+import BTC from '../BTC.svg'
 import logo from '../logo.svg'
-import logoMobile from '../logoMobile.svg'
 import {Toolbar, Typography} from '@material-ui/core'
 import {makeStyles} from "@material-ui/core/styles"; 
 
@@ -13,18 +13,25 @@ const styles = makeStyles({
            flexDirection: "column"
           }
     },
-    logo: {
+    // logo: {
+    //     width: "15%", 
+    //     ['@media (max-width:780px)']: { 
+    //        display: "none"
+    //        }
+    // },
+    // logoMobile:{
+    //     width: "100%", 
+    //     display: "none", 
+    //     ['@media (max-width:780px)']: { 
+    //         display: "inline-block"
+    //         }
+    // },
+
+    BTC: {
         width: "15%", 
         ['@media (max-width:780px)']: { 
            display: "none"
            }
-    },
-    logoMobile:{
-        width: "100%", 
-        display: "none", 
-        ['@media (max-width:780px)']: { 
-            display: "inline-block"
-            }
     },
     menuItem: {
         cursor: "pointer", 
@@ -41,8 +48,8 @@ function NavBar() {
     const classes = styles()
     return (
             <Toolbar position="sticky" color="rgba(0, 0, 0, 0.87)" className={classes.bar}>   
-                <img src={logo} className={classes.logo}/> 
-                <img src={logoMobile} className={classes.logoMobile}/> 
+                <img src={BTC} className={classes.BTC}/> 
+                {/* <img src={logoMobile} className={classes.logoMobile}/>  */}
                 <Typography variant="h6" className={classes.menuItem}>
                    About
                 </Typography>
@@ -58,7 +65,7 @@ function NavBar() {
                 <Typography variant="h6" className={classes.menuItem}>
                     Contact Us 
                 </Typography>
-                <CustomBtn txt="Trial Our Product"/>
+                <CustomButton txt="Trial Our Product"/>
             </Toolbar>
     )
 }

@@ -15,3 +15,4 @@ function Footer() {
         </BottomNavigation>
 )
 }
+export default Footer
