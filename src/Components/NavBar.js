@@ -4,6 +4,7 @@ import BTC from '../BTC.svg'
 import logo from '../logo.svg'
 import {Toolbar, Typography} from '@material-ui/core'
 import {makeStyles} from "@material-ui/core/styles"; 
+import { AmplifySignOut } from '@aws-amplify/ui-react'
 
 const styles = makeStyles({
     bar:{
@@ -65,7 +66,9 @@ function NavBar() {
                 <Typography variant="h6" className={classes.menuItem}>
                     Contact Us 
                 </Typography>
-                <CustomButton txt="Trial Our Product"/>
+                <Typography variant="h6" className={classes.menuItem}>
+                     <AmplifySignOut/>
+                </Typography>
             </Toolbar>
     )
 }

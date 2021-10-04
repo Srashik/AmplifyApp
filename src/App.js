@@ -5,6 +5,7 @@ import Grid from './Components/Grid'
 import Footer from './Components/Footer'
 import './App.css';
 import {Typography} from '@material-ui/core'; 
+import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
 
 
 
@@ -66,6 +67,11 @@ function App() {
   const classes = styles();
   return (
     <div className="App">
+      <header>
+        <img src={logo} className="App-logo" alt="logo" />
+        <h1>We now have Auth!</h1>
+      </header>
+      <AmplifySignOut />
       <ThemeProvider theme={theme}>
         <NavBar/>
         <div className={classes.wrapper}>
@@ -94,4 +100,19 @@ function App() {
   );
 }
 
-export default App;
+// export default App;
+
+
+// function App() {
+//   return (
+//     <div className="App">
+//       <header>
+//         <img src={logo} className="App-logo" alt="logo" />
+//         <h1>We now have Auth!</h1>
+//       </header>
+//       <AmplifySignOut />
+//     </div>
+//   );
+// }
+
+export default withAuthenticator(App);
