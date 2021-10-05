@@ -1,0 +1,280 @@
+
+
+
+
+type Products @model{
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/D698E438-6F1E-4A83-B27E-E18CD1FB6C40/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_0_img&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/D698E438-6F1E-4A83-B27E-E18CD1FB6C40/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_0_img&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/D698E438-6F1E-4A83-B27E-E18CD1FB6C40/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_0_img&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"Hardware Wallet\nHardware Wallet",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/D698E438-6F1E-4A83-B27E-E18CD1FB6C40/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_0_title&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"Hardware Wallet",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/D698E438-6F1E-4A83-B27E-E18CD1FB6C40/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_0_title&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"Hardware Wallet",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/D698E438-6F1E-4A83-B27E-E18CD1FB6C40/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_0_title&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/C9856514-0DF8-4FB7-BDCE-9F14BD33FF83/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_1_img&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/C9856514-0DF8-4FB7-BDCE-9F14BD33FF83/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_1_img&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/C9856514-0DF8-4FB7-BDCE-9F14BD33FF83/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_1_img&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"Mnemonic Metal\nMnemonic Metal",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/C9856514-0DF8-4FB7-BDCE-9F14BD33FF83/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_1_title&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"Mnemonic Metal",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/C9856514-0DF8-4FB7-BDCE-9F14BD33FF83/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_1_title&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"Mnemonic Metal",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/C9856514-0DF8-4FB7-BDCE-9F14BD33FF83/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_1_title&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/ECEEBDC3-B0C6-4A29-989A-0C6461273C47/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_2_img&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/ECEEBDC3-B0C6-4A29-989A-0C6461273C47/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_2_img&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/ECEEBDC3-B0C6-4A29-989A-0C6461273C47/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_2_img&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"Wallet & Metal Bundle\nWallet & Metal Bundle",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/ECEEBDC3-B0C6-4A29-989A-0C6461273C47/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_2_title&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"Wallet & Metal Bundle",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/ECEEBDC3-B0C6-4A29-989A-0C6461273C47/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_2_title&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"Wallet & Metal Bundle",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qn2RrkkXe0KCUVUZAXndWWEAAAF8TaAggwEAAAH2Ac43ljw/https://www.amazon.com/stores/page/ECEEBDC3-B0C6-4A29-989A-0C6461273C47/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=4d8def65d51d4801bf98c5f42b24ed72&hsa_cr_id=3213620480301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_ssd_page_2_title&pd_rd_w=31LNK&pf_rd_p=488a18be-6d86-4de0-8607-bd4ea4b560f3&pd_rd_wg=tiKcH&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=fd149a78-f8dc-4a81-9cd3-e6be575b8e29"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A042215922V3HS7RGTKTA&url=%2FSecuX-W20-Crypto-Asset-Hardware-Wallet%2Fdp%2FB07Q19WN6G%2Fref%3Dsr_1_1_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-1-spons%26psc%3D1%26smid%3DA2SMSPSFZCD0XO&qualifier=1633389912&id=8888961754164457&widgetName=sp_atf"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A042215922V3HS7RGTKTA&url=%2FSecuX-W20-Crypto-Asset-Hardware-Wallet%2Fdp%2FB07Q19WN6G%2Fref%3Dsr_1_1_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-1-spons%26psc%3D1%26smid%3DA2SMSPSFZCD0XO&qualifier=1633389912&id=8888961754164457&widgetName=sp_atf"
+},
+{
+"name":"SecuX W20 - Most Secure Crypto Hardware Wallet w/ Bluetooth - Large Touchscreen - Easily Manage your Bitcoin, Ethereum, BTC, ETH, LTC, DOGE, BNB, Dash, XLM, ERC20, BSC and more",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A042215922V3HS7RGTKTA&url=%2FSecuX-W20-Crypto-Asset-Hardware-Wallet%2Fdp%2FB07Q19WN6G%2Fref%3Dsr_1_1_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-1-spons%26psc%3D1%26smid%3DA2SMSPSFZCD0XO&qualifier=1633389912&id=8888961754164457&widgetName=sp_atf"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A08216813VF3TU4L6WE5&url=%2FSecuX-V20-Crypto-Asset-Hardware-Wallet%2Fdp%2FB07PVXSFR4%2Fref%3Dsr_1_2_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-2-spons%26psc%3D1%26smid%3DA2SMSPSFZCD0XO&qualifier=1633389912&id=8888961754164457&widgetName=sp_atf"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A08216813VF3TU4L6WE5&url=%2FSecuX-V20-Crypto-Asset-Hardware-Wallet%2Fdp%2FB07PVXSFR4%2Fref%3Dsr_1_2_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-2-spons%26psc%3D1%26smid%3DA2SMSPSFZCD0XO&qualifier=1633389912&id=8888961754164457&widgetName=sp_atf"
+},
+{
+"name":"SecuX V20 - Most Secure Crypto Hardware Wallet w/ Bluetooth - Cross Platform - Easily Manage Your Bitcoin, Ethereum, BTC, ETH, LTC, Doge, BNB, Dash, XLM, ERC20, BSC and More",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A08216813VF3TU4L6WE5&url=%2FSecuX-V20-Crypto-Asset-Hardware-Wallet%2Fdp%2FB07PVXSFR4%2Fref%3Dsr_1_2_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-2-spons%26psc%3D1%26smid%3DA2SMSPSFZCD0XO&qualifier=1633389912&id=8888961754164457&widgetName=sp_atf"
+},
+{
+"name":"Ledger Nano S - Cryptocurrency Hardware Wallet v1.4 - Bitcoin, Ethereum, Ripple, Altcoins and ERC Tokens",
+"url":"https://www.amazon.com/Ledger-Nano-Cryptocurrency-Hardware-Ethereum/dp/B07FY5R77T/ref=sr_1_3?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-3"
+},
+{
+"name":"Hardware Cryptocurrency Wallet - Ellipal Cold Wallet Gold Titan, Air-gapped & Internet Isolated, Anti-Tampering, Supporting Multi-Currency, w/Mnemonics Card, Ideal for BTC XRP ETH XLM USDT LTC Dash",
+"url":"https://www.amazon.com/Hardware-Cryptocurrency-Wallet-Anti-Tampering-Multi-Currency/dp/B08C9ZPD8H/ref=sr_1_4?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-4"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/SecuX-V20-Crypto-Asset-Hardware-Wallet/dp/B07PVXSFR4/ref=sr_1_5?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-5"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/SecuX-V20-Crypto-Asset-Hardware-Wallet/dp/B07PVXSFR4/ref=sr_1_5?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-5"
+},
+{
+"name":"SecuX V20 - Most Secure Crypto Hardware Wallet w/ Bluetooth - Cross Platform - Easily Manage Your Bitcoin, Ethereum, BTC, ETH, LTC, Doge, BNB, Dash, XLM, ERC20, BSC and More",
+"url":"https://www.amazon.com/SecuX-V20-Crypto-Asset-Hardware-Wallet/dp/B07PVXSFR4/ref=sr_1_5?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-5"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/Ledger-Nano-Cryptocurrency-Hardware-Ethereum/dp/B07FY5R77T/ref=sxin_13?asc_contentid=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&asc_contenttype=article&ascsubtag=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&creativeASIN=B07FY5R77T&cv_ct_cx=crypto+hardware+wallets&cv_ct_id=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&dchild=1&keywords=crypto+hardware+wallets&linkCode=oas&pd_rd_i=B07FY5R77T&pd_rd_r=a101e4c5-16a0-4fd2-9104-a6a503633c2b&pd_rd_w=9pBma&pd_rd_wg=CVz6H&pf_rd_p=05ad5af5-c700-4e1b-92d5-aeafaae3e0ed&pf_rd_r=FSFNVSMM2FR3JDT9425S&qid=1633389912&sr=1-1-c26ac7f6-b43f-4741-a772-17cad7536576&tag=gearpublish-20"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/Ledger-Nano-Cryptocurrency-Hardware-Ethereum/dp/B07FY5R77T/ref=sxin_13?asc_contentid=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&asc_contenttype=article&ascsubtag=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&creativeASIN=B07FY5R77T&cv_ct_cx=crypto+hardware+wallets&cv_ct_id=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&dchild=1&keywords=crypto+hardware+wallets&linkCode=oas&pd_rd_i=B07FY5R77T&pd_rd_r=a101e4c5-16a0-4fd2-9104-a6a503633c2b&pd_rd_w=9pBma&pd_rd_wg=CVz6H&pf_rd_p=05ad5af5-c700-4e1b-92d5-aeafaae3e0ed&pf_rd_r=FSFNVSMM2FR3JDT9425S&qid=1633389912&sr=1-1-c26ac7f6-b43f-4741-a772-17cad7536576&tag=gearpublish-20"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/SecuX-W10-Crypto-Asset-Hardware-Wallet/dp/B07NQ84L2S/ref=sxin_13?asc_contentid=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&asc_contenttype=article&ascsubtag=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&creativeASIN=B07NQ84L2S&cv_ct_cx=crypto+hardware+wallets&cv_ct_id=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&dchild=1&keywords=crypto+hardware+wallets&linkCode=oas&pd_rd_i=B07NQ84L2S&pd_rd_r=a101e4c5-16a0-4fd2-9104-a6a503633c2b&pd_rd_w=9pBma&pd_rd_wg=CVz6H&pf_rd_p=05ad5af5-c700-4e1b-92d5-aeafaae3e0ed&pf_rd_r=FSFNVSMM2FR3JDT9425S&qid=1633389912&sr=1-2-c26ac7f6-b43f-4741-a772-17cad7536576&tag=gearpublish-20"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/SecuX-W10-Crypto-Asset-Hardware-Wallet/dp/B07NQ84L2S/ref=sxin_13?asc_contentid=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&asc_contenttype=article&ascsubtag=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&creativeASIN=B07NQ84L2S&cv_ct_cx=crypto+hardware+wallets&cv_ct_id=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&dchild=1&keywords=crypto+hardware+wallets&linkCode=oas&pd_rd_i=B07NQ84L2S&pd_rd_r=a101e4c5-16a0-4fd2-9104-a6a503633c2b&pd_rd_w=9pBma&pd_rd_wg=CVz6H&pf_rd_p=05ad5af5-c700-4e1b-92d5-aeafaae3e0ed&pf_rd_r=FSFNVSMM2FR3JDT9425S&qid=1633389912&sr=1-2-c26ac7f6-b43f-4741-a772-17cad7536576&tag=gearpublish-20"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/CoolWallet-S-Wireless-Bitcoin-Wallet/dp/B07CN8JZGM/ref=sxin_13?asc_contentid=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&asc_contenttype=article&ascsubtag=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&creativeASIN=B07CN8JZGM&cv_ct_cx=crypto+hardware+wallets&cv_ct_id=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&dchild=1&keywords=crypto+hardware+wallets&linkCode=oas&pd_rd_i=B07CN8JZGM&pd_rd_r=a101e4c5-16a0-4fd2-9104-a6a503633c2b&pd_rd_w=9pBma&pd_rd_wg=CVz6H&pf_rd_p=05ad5af5-c700-4e1b-92d5-aeafaae3e0ed&pf_rd_r=FSFNVSMM2FR3JDT9425S&qid=1633389912&sr=1-3-c26ac7f6-b43f-4741-a772-17cad7536576&tag=gearpublish-20"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/CoolWallet-S-Wireless-Bitcoin-Wallet/dp/B07CN8JZGM/ref=sxin_13?asc_contentid=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&asc_contenttype=article&ascsubtag=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&creativeASIN=B07CN8JZGM&cv_ct_cx=crypto+hardware+wallets&cv_ct_id=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&dchild=1&keywords=crypto+hardware+wallets&linkCode=oas&pd_rd_i=B07CN8JZGM&pd_rd_r=a101e4c5-16a0-4fd2-9104-a6a503633c2b&pd_rd_w=9pBma&pd_rd_wg=CVz6H&pf_rd_p=05ad5af5-c700-4e1b-92d5-aeafaae3e0ed&pf_rd_r=FSFNVSMM2FR3JDT9425S&qid=1633389912&sr=1-3-c26ac7f6-b43f-4741-a772-17cad7536576&tag=gearpublish-20"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/KeepKey-Simple-Cryptocurrency-Hardware-Wallet/dp/B0143M2A5S/ref=sxin_13?asc_contentid=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&asc_contenttype=article&ascsubtag=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&creativeASIN=B0143M2A5S&cv_ct_cx=crypto+hardware+wallets&cv_ct_id=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&dchild=1&keywords=crypto+hardware+wallets&linkCode=oas&pd_rd_i=B0143M2A5S&pd_rd_r=a101e4c5-16a0-4fd2-9104-a6a503633c2b&pd_rd_w=9pBma&pd_rd_wg=CVz6H&pf_rd_p=05ad5af5-c700-4e1b-92d5-aeafaae3e0ed&pf_rd_r=FSFNVSMM2FR3JDT9425S&qid=1633389912&sr=1-4-c26ac7f6-b43f-4741-a772-17cad7536576&tag=gearpublish-20"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/KeepKey-Simple-Cryptocurrency-Hardware-Wallet/dp/B0143M2A5S/ref=sxin_13?asc_contentid=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&asc_contenttype=article&ascsubtag=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&creativeASIN=B0143M2A5S&cv_ct_cx=crypto+hardware+wallets&cv_ct_id=amzn1.osa.e42ae54c-e915-4316-b6a6-0b20cc1af9d4.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&dchild=1&keywords=crypto+hardware+wallets&linkCode=oas&pd_rd_i=B0143M2A5S&pd_rd_r=a101e4c5-16a0-4fd2-9104-a6a503633c2b&pd_rd_w=9pBma&pd_rd_wg=CVz6H&pf_rd_p=05ad5af5-c700-4e1b-92d5-aeafaae3e0ed&pf_rd_r=FSFNVSMM2FR3JDT9425S&qid=1633389912&sr=1-4-c26ac7f6-b43f-4741-a772-17cad7536576&tag=gearpublish-20"
+},
+{
+"name":"SecuX W10 - Most Secure Crypto Hardware Wallet w/ Large Touch Screen - Easily Manage Your Bitcoin, Ethereum, BTC, ETH, LTC, Doge, BNB, Dash, XLM, ERC20, BSC and More",
+"url":"https://www.amazon.com/SecuX-W10-Crypto-Asset-Hardware-Wallet/dp/B07NQ84L2S/ref=sr_1_6?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-6"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0770473TM6DMJCXXQ4C&url=%2FBillFodl-Tamper-Proof-Stickers-Bitcoin-Ethereum%2Fdp%2FB07J9J1HXJ%2Fref%3Dsr_1_7_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-7-spons%26psc%3D1&qualifier=1633389912&id=8888961754164457&widgetName=sp_mtf"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0770473TM6DMJCXXQ4C&url=%2FBillFodl-Tamper-Proof-Stickers-Bitcoin-Ethereum%2Fdp%2FB07J9J1HXJ%2Fref%3Dsr_1_7_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-7-spons%26psc%3D1&qualifier=1633389912&id=8888961754164457&widgetName=sp_mtf"
+},
+{
+"name":"The HODL Bundle by BillFodl (1 Main Unit, 1 Set Tamper-Proof Stickers, 1 Fodl Hodler) | Bitcoin, Ethereum & Crypto Wallet - Hardware Wallet Backup for Ledger Nano S, Trezor & KeepKey",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0770473TM6DMJCXXQ4C&url=%2FBillFodl-Tamper-Proof-Stickers-Bitcoin-Ethereum%2Fdp%2FB07J9J1HXJ%2Fref%3Dsr_1_7_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-7-spons%26psc%3D1&qualifier=1633389912&id=8888961754164457&widgetName=sp_mtf"
+},
+{
+"name":"Husky HDW20 The Best Crypto Hardware Wallet - WiFi Supported, Bitcoin Wallet with Large Touchscreen LED Display, Easily Manageable Secure Cryptocurrency Cold Storage with Easy to Follow User Manual",
+"url":"https://www.amazon.com/Husky-HDW20-Crypto-Hardware-Wallet/dp/B092W36L64/ref=sr_1_8?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-8"
+},
+{
+"name":"SecuX Crypto Wallet Bundle - V20 + W10 Hardware Wallet - w/ Touch Screen, USB - Easily Manager Your Bitcoin, Ethereum, BTC, ETH, LTC, Doge, BNB, Dash, XLM, ERC20, BSC and More",
+"url":"https://www.amazon.com/Crypto-Wallet-SecuX-Hardware-solution/dp/B07YS63LPY/ref=sr_1_9?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-9"
+},
+{
+"name":"[Bundle] Ledger Nano S + Billfodl Hardware Wallet for Seed Words Backup | The Best Crypto Wallet + Cold Wallet for Crypto Compatible with BIP39 Wallets. Store Your Bitcoin, Ethereum, ERC20 and More",
+"url":"https://www.amazon.com/Billfodl-Hardware-Compatible-Wallets-Ethereum/dp/B08QH6Z4SV/ref=sr_1_10?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-10"
+},
+{
+"name":"Cobo Vault Essential (Keystone Essential) - Cryptocurrency Hardware Wallet 100% air-gapped, 4-inch Touch Screen, Fingerprint Sensor, Store Your Crypto securely.",
+"url":"https://www.amazon.com/Cobo-Vault-Essential-Keystone-Cryptocurrency/dp/B08RRWM6W3/ref=sr_1_11?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-11"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A047327622MXJ5LIJBIBI&url=%2FKensington-VeriMark-Fingerprint-Black-K67977WW%2Fdp%2FB01NAVWPOJ%2Fref%3Dsr_1_12_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-12-spons%26psc%3D1&qualifier=1633389912&id=8888961754164457&widgetName=sp_mtf"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A047327622MXJ5LIJBIBI&url=%2FKensington-VeriMark-Fingerprint-Black-K67977WW%2Fdp%2FB01NAVWPOJ%2Fref%3Dsr_1_12_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-12-spons%26psc%3D1&qualifier=1633389912&id=8888961754164457&widgetName=sp_mtf"
+},
+{
+"name":"Kensington VeriMark USB Fingerprint Key Reader - Windows Hello, FIDO U2F, Anti-Spoofing (K67977WW),Black",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A047327622MXJ5LIJBIBI&url=%2FKensington-VeriMark-Fingerprint-Black-K67977WW%2Fdp%2FB01NAVWPOJ%2Fref%3Dsr_1_12_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-12-spons%26psc%3D1&qualifier=1633389912&id=8888961754164457&widgetName=sp_mtf"
+},
+{
+"name":"Trezor Model T + Billfodl Cryptocurrency Hardware Wallet with SteelWallet Cold Seed Storage (Bundle)",
+"url":"https://www.amazon.com/Billfodl-Cryptocurrency-Hardware-SteelWallet-Storage/dp/B07ZS485N5/ref=sr_1_13?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-13"
+},
+{
+"name":"Bitfi Cryptocurrency Hardware Wallet - Black",
+"url":"https://www.amazon.com/Bitfi-Cryptocurrency-Hardware-Wallet-Black/dp/B07FF9Q1JG/ref=sr_1_14?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-14"
+},
+{
+"name":"2-Pack of Kasse Hardware Wallet HK-1000 for Cryptocurrency High Security Virtual Currency Crypto Vault - Full ERC20 Support - Bitcoin Ethereum Ripple Litecoin Dash ZCash Bitcoin Cash",
+"url":"https://www.amazon.com/Kasse-Hardware-HK-1000-Cryptocurrency-Security/dp/B07DKJCCL9/ref=sr_1_15?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-15"
+},
+{
+"name":"ELLIPAL Cryptocurrency Hardware Wallet - Cold Wallet Titan, Multi-Currency&Token Support, Anti-Disassembly&Tampering, Internet Isolated, Easy Exchange& Trade, Support BTC Xrp ETH Usdt TRX Dash DGB",
+"url":"https://www.amazon.com/ELLIPAL-Cryptocurrency-Hardware-Internet-Isolated/dp/B07MBYZMDV/ref=sr_1_16?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-16"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0351604D7U3ER04V1Z7&url=%2FSecuX-W10-Crypto-Asset-Hardware-Wallet%2Fdp%2FB07NQ84L2S%2Fref%3Dsr_1_17_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-17-spons%26psc%3D1%26smid%3DA2SMSPSFZCD0XO&qualifier=1633389912&id=8888961754164457&widgetName=sp_mtf"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0351604D7U3ER04V1Z7&url=%2FSecuX-W10-Crypto-Asset-Hardware-Wallet%2Fdp%2FB07NQ84L2S%2Fref%3Dsr_1_17_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-17-spons%26psc%3D1%26smid%3DA2SMSPSFZCD0XO&qualifier=1633389912&id=8888961754164457&widgetName=sp_mtf"
+},
+{
+"name":"SecuX W10 - Most Secure Crypto Hardware Wallet w/ Large Touch Screen - Easily Manage Your Bitcoin, Ethereum, BTC, ETH, LTC, Doge, BNB, Dash, XLM, ERC20, BSC and More",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0351604D7U3ER04V1Z7&url=%2FSecuX-W10-Crypto-Asset-Hardware-Wallet%2Fdp%2FB07NQ84L2S%2Fref%3Dsr_1_17_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-17-spons%26psc%3D1%26smid%3DA2SMSPSFZCD0XO&qualifier=1633389912&id=8888961754164457&widgetName=sp_mtf"
+},
+{
+"name":"Tangem Hardware Wallet, Bundle of 7 Cards - Best Crypto Gift - Easy to use Wallets for Everyone - BTC, ETH, XRP, XLM, ADA, BCH, XTZ",
+"url":"https://www.amazon.com/Tangem-Hardware-Wallet-Bundle-Cards/dp/B08NWKLW98/ref=sr_1_18?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-18"
+},
+{
+"name":"Case Compatible with Ledger Nano S Crypto Hardware Wallet, Ledger Nano X, Trezor One/Model T Cryptocurrency Hardware Wallet Accessories (Black Camo)",
+"url":"https://www.amazon.com/SanDisk-500GB-Extreme-Portable-External/dp/B07TQDBPHL/ref=sr_1_19?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-19"
+},
+{
+"name":"BitBox02 Bitcoin Wallet - Swiss-Made Hardware Wallet for Secure Cold Storage - Perfect for Beginners, Including Desktop and Mobile App",
+"url":"https://www.amazon.com/BitBox-BB021B-BitBox02-Bitcoin-only-Hardware/dp/B08KWB9QTZ/ref=sr_1_20?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-20"
+},
+{
+"name":"Tangem Twin - Ultra Secure Bitcoin Hardware Wallet - NFC",
+"url":"https://www.amazon.com/Tangem-Bitcoin-Multisignature-Hardware-Wallet/dp/B08VDTT42K/ref=sr_1_21?dchild=1&keywords=crypto+hardware+wallets&qid=1633389912&sr=8-21"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A08451852F16ZTGTPKJSL&url=%2FCryptosteel-MNEMONIC-storage-wallet-cryptocurrency%2Fdp%2FB0756P57M8%2Fref%3Dsr_1_22_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-22-spons%26psc%3D1&qualifier=1633389912&id=8888961754164457&widgetName=sp_btf"
+},
+{
+"name":"",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A08451852F16ZTGTPKJSL&url=%2FCryptosteel-MNEMONIC-storage-wallet-cryptocurrency%2Fdp%2FB0756P57M8%2Fref%3Dsr_1_22_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-22-spons%26psc%3D1&qualifier=1633389912&id=8888961754164457&widgetName=sp_btf"
+},
+{
+"name":"Cryptosteel MNEMONIC Cold Storage Wallet for Cryptocurrency",
+"url":"https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A08451852F16ZTGTPKJSL&url=%2FCryptosteel-MNEMONIC-storage-wallet-cryptocurrency%2Fdp%2FB0756P57M8%2Fref%3Dsr_1_22_sspa%3Fdchild%3D1%26keywords%3Dcrypto%2Bhardware%2Bwallets%26qid%3D1633389912%26sr%3D8-22-spons%26psc%3D1&qualifier=1633389912&id=8888961754164457&widgetName=sp_btf"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qvu5UBe9jt-3n-Qx31JXgf8AAAF8TaAhYAEAAAH2AQxKK9o/https://www.amazon.com/stores/page/87BF9715-576F-4184-9B81-20E55B2741D8/?_encoding=UTF8&store_ref=SB_A06244703IHQ0F4ZGVIJU&pd_rd_plhdr=t&aaxitk=d8d261629c6579abd94aae85cb680950&hsa_cr_id=6212956840301&lp_asins=B08BPCRWRM%2CB08BPCYNWF%2CB07Y6WJDKC&lp_query=crypto%20hardware%20wallets&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_asin&pd_rd_w=8Yhob&pf_rd_p=85014337-b4b1-4f3c-85f8-828d3b814280&pd_rd_wg=9qU1Y&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=80e3097a-fff5-4a90-ad82-f27b3f438275"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qvu5UBe9jt-3n-Qx31JXgf8AAAF8TaAhYAEAAAH2AQxKK9o/https://www.amazon.com/stores/page/87BF9715-576F-4184-9B81-20E55B2741D8/?_encoding=UTF8&store_ref=SB_A06244703IHQ0F4ZGVIJU&pd_rd_plhdr=t&aaxitk=d8d261629c6579abd94aae85cb680950&hsa_cr_id=6212956840301&lp_asins=B08BPCRWRM%2CB08BPCYNWF%2CB07Y6WJDKC&lp_query=crypto%20hardware%20wallets&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_logo&pd_rd_w=8Yhob&pf_rd_p=85014337-b4b1-4f3c-85f8-828d3b814280&pd_rd_wg=9qU1Y&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=80e3097a-fff5-4a90-ad82-f27b3f438275"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qh5SNbl2Uy3VO4mVssW0t5IAAAF8TaAhYAEAAAH2AVZdI7w/https://www.amazon.com/stores/page/90E1EB7D-99A1-403D-845B-4CE648503449/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=5d6fdaebdba95754e8755052080a2dc9&hsa_cr_id=9719394260301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_asin&pd_rd_w=8Yhob&pf_rd_p=85014337-b4b1-4f3c-85f8-828d3b814280&pd_rd_wg=9qU1Y&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=80e3097a-fff5-4a90-ad82-f27b3f438275"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/Qh5SNbl2Uy3VO4mVssW0t5IAAAF8TaAhYAEAAAH2AVZdI7w/https://www.amazon.com/stores/page/90E1EB7D-99A1-403D-845B-4CE648503449/?_encoding=UTF8&store_ref=SB_A1040125DAG7LCVZJSOE&pd_rd_plhdr=t&aaxitk=5d6fdaebdba95754e8755052080a2dc9&hsa_cr_id=9719394260301&lp_asins=B08DTXJGHJ%2CB08CRCBGXY%2CB08C9ZPD8H&lp_query=crypto%20hardware%20wallets&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_logo&pd_rd_w=8Yhob&pf_rd_p=85014337-b4b1-4f3c-85f8-828d3b814280&pd_rd_wg=9qU1Y&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=80e3097a-fff5-4a90-ad82-f27b3f438275"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/QkDMT_X7kVwJq-xHY3QMv94AAAF8TaAhYAEAAAH2AYsYhXE/https://www.amazon.com/stores/page/ACAD152B-E483-4FB7-ADCF-6673239220E0/?_encoding=UTF8&store_ref=SB_A0441547YKJQNDTS5K7Y&pd_rd_plhdr=t&aaxitk=7b6b2e5bf831015b8c8e013e310cbcb9&hsa_cr_id=5168378480501&lp_asins=B07Q19WN6G%2CB07PVXSFR4%2CB07YS63LPY&lp_query=crypto%20hardware%20wallets&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_asin&pd_rd_w=8Yhob&pf_rd_p=85014337-b4b1-4f3c-85f8-828d3b814280&pd_rd_wg=9qU1Y&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=80e3097a-fff5-4a90-ad82-f27b3f438275"
+},
+{
+"name":"",
+"url":"https://aax-us-east.amazon-adsystem.com/x/c/QkDMT_X7kVwJq-xHY3QMv94AAAF8TaAhYAEAAAH2AYsYhXE/https://www.amazon.com/stores/page/ACAD152B-E483-4FB7-ADCF-6673239220E0/?_encoding=UTF8&store_ref=SB_A0441547YKJQNDTS5K7Y&pd_rd_plhdr=t&aaxitk=7b6b2e5bf831015b8c8e013e310cbcb9&hsa_cr_id=5168378480501&lp_asins=B07Q19WN6G%2CB07PVXSFR4%2CB07YS63LPY&lp_query=crypto%20hardware%20wallets&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_logo&pd_rd_w=8Yhob&pf_rd_p=85014337-b4b1-4f3c-85f8-828d3b814280&pd_rd_wg=9qU1Y&pf_rd_r=FSFNVSMM2FR3JDT9425S&pd_rd_r=80e3097a-fff5-4a90-ad82-f27b3f438275"
+}
+
+}
+

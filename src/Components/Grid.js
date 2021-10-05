@@ -3,6 +3,7 @@ import {Typography} from '@material-ui/core'
 import {makeStyles} from '@material-ui/core/styles'
 import CustomButton from './CustomButton'
 
+
 const styles = makeStyles({
     wrapper: {
        display: "flex",
@@ -21,7 +22,7 @@ function Grid(props) {
     return (
         <div className={classes.wrapper}>
             <div className={classes.item}>{icon}</div>
-            <Typography className={classes.item} variant="h5">{title}</Typography>
+            <Typography className={classes.item} variant="h5">{classes.name}</Typography>
             <div className={classes.item}>
                 <CustomButton  txt={btnTitle}/>
             </div>

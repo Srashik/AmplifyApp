@@ -14,19 +14,7 @@ const styles = makeStyles({
            flexDirection: "column"
           }
     },
-    // logo: {
-    //     width: "15%", 
-    //     ['@media (max-width:780px)']: { 
-    //        display: "none"
-    //        }
-    // },
-    // logoMobile:{
-    //     width: "100%", 
-    //     display: "none", 
-    //     ['@media (max-width:780px)']: { 
-    //         display: "inline-block"
-    //         }
-    // },
+   
 
     BTC: {
         width: "15%", 
@@ -54,17 +42,17 @@ function NavBar() {
                 <Typography variant="h6" className={classes.menuItem}>
                    About
                 </Typography>
-                <Typography variant="h6" className={classes.menuItem}>
+                {/* <Typography variant="h6" className={classes.menuItem}>
                     Blog
                 </Typography>
                 <Typography variant="h6" className={classes.menuItem}>
                     Careers
+                </Typography> */}
+                <Typography variant="h6" className={classes.menuItem}>
+                    Shop 
                 </Typography>
                 <Typography variant="h6" className={classes.menuItem}>
-                    Demos 
-                </Typography>
-                <Typography variant="h6" className={classes.menuItem}>
-                    Contact Us 
+                    Crypto News 
                 </Typography>
                 <Typography variant="h6" className={classes.menuItem}>
                      <AmplifySignOut/>
