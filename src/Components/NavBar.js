@@ -5,6 +5,7 @@ import logo from '../logo.svg'
 import {Toolbar, Typography} from '@material-ui/core'
 import {makeStyles} from "@material-ui/core/styles"; 
 import { AmplifySignOut } from '@aws-amplify/ui-react'
+import ShoppingCart from '@material-ui/icons/ShoppingCart'
 
 const styles = makeStyles({
     bar:{
@@ -53,6 +54,9 @@ function NavBar() {
                 </Typography>
                 <Typography variant="h6" className={classes.menuItem}>
                     Crypto News 
+                </Typography>
+                <Typography variant="h6" className={classes.menuItem}>
+                    <ShoppingCart> Cart </ShoppingCart> 
                 </Typography>
                 <Typography variant="h6" className={classes.menuItem}>
                      <AmplifySignOut/>

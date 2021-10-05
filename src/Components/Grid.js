@@ -16,18 +16,28 @@ const styles = makeStyles({
     }
 })
 
+
+
 function Grid(props) {
     const {icon, title, btnTitle} = props;
+    
+   
+   
     const classes = styles(); 
     return (
         <div className={classes.wrapper}>
             <div className={classes.item}>{icon}</div>
             <Typography className={classes.item} variant="h5">{classes.name}</Typography>
             <div className={classes.item}>
-                <CustomButton  txt={btnTitle}/>
+                {/* <CustomButton  txt={btnTitle} /> */}
             </div>
         </div>
     )
+
+    
 }
+
+
+
 
 export default Grid

@@ -7,7 +7,8 @@ const StyledButton = withStyles({
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        height: "44px",
+        height: "70px",
+        width: "100px",
         padding: "0 25px",
         boxSizing: "border-box",
         borderRadius: 0, 
@@ -25,9 +26,13 @@ const StyledButton = withStyles({
     },
   })(Button);
 
-function CustomButton(props) {
+
+function CustomButton(func, props) {
     return (
-        <StyledButton variant="contained">{props.txt}</StyledButton>
+        <StyledButton  variant="contained">
+            {props.txt} 
+            
+            </StyledButton>
     )
 }
 

@@ -28,6 +28,7 @@
   color: #61dafb;
 }
 
+
 .productList {
   display: flex;
   flex-direction: column;
@@ -35,14 +36,21 @@
 
 .productCard {
   display: flex;
-  justify-content: space-around;
+  
   padding: 5px;
 }
 
 .productTitle {
   font-weight: bold;
+  font-style: oblique;
+  align-items: center;
+  justify-content: center;
+  
   
 }
+
+
+
 
 @keyframes App-logo-spin {
   from {
