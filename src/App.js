@@ -5,12 +5,11 @@ import NavBar from './Components/NavBar'
 import Grid from './Components/Grid'
 import Footer from './Components/Footer'
 import './App.css';
-import {Typography} from '@material-ui/core'; 
+import {Typography,Paper, IconButton} from '@material-ui/core'; 
 import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
-import { API } from 'aws-amplify';
-import { createNote as createNoteMutation, deleteNote as deleteNoteMutation } from './graphql/mutations';
-
-
+import Amplify, { API,graphqlOperation } from 'aws-amplify';
+import awsconfig from './aws-exports';
+import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
 
 
 import SecurityIcon from '@material-ui/icons/Security';
@@ -19,7 +18,11 @@ import TrendingUpIcon from '@material-ui/icons/TrendingUp';
 import ImportExportIcon from '@material-ui/icons/ImportExport';
 import ComputerIcon from '@material-ui/icons/Computer';
 import HttpIcon from '@material-ui/icons/Http';
+import { listProducts } from './graphql/queries';
 
+
+
+Amplify.configure(awsconfig);
 
 const initialFormState = { name: '', url: '' }
 
@@ -71,16 +74,36 @@ const styles = makeStyles({
 
 function App() {
 
-  
+
+  const [products, setProducts] = useState([])
 
 
+  useEffect(() => {
+
+    fetchInfo();
+  }, []);
+
+
+  const fetchInfo = async () => {
+
+    try{
+      const productData = await API.graphql(graphqlOperation(listProducts));
+      const productList = productData.data.listProducts.items;
+      console.log('produce list is: ', productList);
+      setProducts(productList)
+
+
+    }
+    catch(error){
+
+      console.log('error on fetching products from API',error);
+
+      
+
+
+    }
+  }
   const classes = styles();
-
-
-
-  
-
-
 
   return (
     <div className="App">
@@ -92,9 +115,39 @@ function App() {
              At BBP we keep up-to-date with all of the best crypto technology!
           </Typography>
           <Typography variant="h5" className={classes.littleSpace} color="primary">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sodales congue tristique. Cras non pretium sem. Duis interdum lorem sit amet ligula pretium, sed rutrum urna semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus egestas gravida ullamcorper.
           </Typography>
         </div>
+
+        <div className="productList">
+          {
+            products.map((product , idx) => {
+
+              return (
+                <Paper variant="outlined" elevation={2} key={`product${idx}`} >
+                
+                  <div className="productCard"> 
+                  <IconButton color="primary" aria-label="add to shopping cart">
+                    <AddShoppingCartIcon />
+                    </IconButton>
+                    <div>
+                      <div className="productTitle"> {product.name}<div>
+                      <div className="productDesc">{product.description}</div>
+                    </div>
+                    </div>
+                    </div>
+
+
+                  
+                  </div>
+            
+                  </Paper>
+              )
+
+
+            })
+          }
+
+          </div>
 
 
        

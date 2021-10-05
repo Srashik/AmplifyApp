@@ -15,7 +15,7 @@
         "name" : "Query",
         "description" : null,
         "fields" : [ {
-          "name" : "getTodo",
+          "name" : "getProducts",
           "description" : null,
           "args" : [ {
             "name" : "id",
@@ -33,20 +33,20 @@
           } ],
           "type" : {
             "kind" : "OBJECT",
-            "name" : "Todo",
+            "name" : "Products",
             "ofType" : null
           },
           "isDeprecated" : false,
           "deprecationReason" : null
         }, {
-          "name" : "listTodos",
+          "name" : "listProducts",
           "description" : null,
           "args" : [ {
             "name" : "filter",
             "description" : null,
             "type" : {
               "kind" : "INPUT_OBJECT",
-              "name" : "ModelTodoFilterInput",
+              "name" : "ModelProductsFilterInput",
               "ofType" : null
             },
             "defaultValue" : null
@@ -71,7 +71,7 @@
           } ],
           "type" : {
             "kind" : "OBJECT",
-            "name" : "ModelTodoConnection",
+            "name" : "ModelProductsConnection",
             "ofType" : null
           },
           "isDeprecated" : false,
@@ -83,7 +83,7 @@
         "possibleTypes" : null
       }, {
         "kind" : "OBJECT",
-        "name" : "Todo",
+        "name" : "Products",
         "description" : null,
         "fields" : [ {
           "name" : "id",
@@ -190,7 +190,7 @@
         "possibleTypes" : null
       }, {
         "kind" : "OBJECT",
-        "name" : "ModelTodoConnection",
+        "name" : "ModelProductsConnection",
         "description" : null,
         "fields" : [ {
           "name" : "items",
@@ -201,7 +201,7 @@
             "name" : null,
             "ofType" : {
               "kind" : "OBJECT",
-              "name" : "Todo",
+              "name" : "Products",
               "ofType" : null
             }
           },
@@ -225,7 +225,7 @@
         "possibleTypes" : null
       }, {
         "kind" : "INPUT_OBJECT",
-        "name" : "ModelTodoFilterInput",
+        "name" : "ModelProductsFilterInput",
         "description" : null,
         "fields" : null,
         "inputFields" : [ {
@@ -263,7 +263,7 @@
             "name" : null,
             "ofType" : {
               "kind" : "INPUT_OBJECT",
-              "name" : "ModelTodoFilterInput",
+              "name" : "ModelProductsFilterInput",
               "ofType" : null
             }
           },
@@ -276,7 +276,7 @@
             "name" : null,
             "ofType" : {
               "kind" : "INPUT_OBJECT",
-              "name" : "ModelTodoFilterInput",
+              "name" : "ModelProductsFilterInput",
               "ofType" : null
             }
           },
@@ -286,7 +286,7 @@
           "description" : null,
           "type" : {
             "kind" : "INPUT_OBJECT",
-            "name" : "ModelTodoFilterInput",
+            "name" : "ModelProductsFilterInput",
             "ofType" : null
           },
           "defaultValue" : null
@@ -712,7 +712,7 @@
         "name" : "Mutation",
         "description" : null,
         "fields" : [ {
-          "name" : "createTodo",
+          "name" : "createProducts",
           "description" : null,
           "args" : [ {
             "name" : "input",
@@ -722,7 +722,7 @@
               "name" : null,
               "ofType" : {
                 "kind" : "INPUT_OBJECT",
-                "name" : "CreateTodoInput",
+                "name" : "CreateProductsInput",
                 "ofType" : null
               }
             },
@@ -732,20 +732,20 @@
             "description" : null,
             "type" : {
               "kind" : "INPUT_OBJECT",
-              "name" : "ModelTodoConditionInput",
+              "name" : "ModelProductsConditionInput",
               "ofType" : null
             },
             "defaultValue" : null
           } ],
           "type" : {
             "kind" : "OBJECT",
-            "name" : "Todo",
+            "name" : "Products",
             "ofType" : null
           },
           "isDeprecated" : false,
           "deprecationReason" : null
         }, {
-          "name" : "updateTodo",
+          "name" : "updateProducts",
           "description" : null,
           "args" : [ {
             "name" : "input",
@@ -755,7 +755,7 @@
               "name" : null,
               "ofType" : {
                 "kind" : "INPUT_OBJECT",
-                "name" : "UpdateTodoInput",
+                "name" : "UpdateProductsInput",
                 "ofType" : null
               }
             },
@@ -765,20 +765,20 @@
             "description" : null,
             "type" : {
               "kind" : "INPUT_OBJECT",
-              "name" : "ModelTodoConditionInput",
+              "name" : "ModelProductsConditionInput",
               "ofType" : null
             },
             "defaultValue" : null
           } ],
           "type" : {
             "kind" : "OBJECT",
-            "name" : "Todo",
+            "name" : "Products",
             "ofType" : null
           },
           "isDeprecated" : false,
           "deprecationReason" : null
         }, {
-          "name" : "deleteTodo",
+          "name" : "deleteProducts",
           "description" : null,
           "args" : [ {
             "name" : "input",
@@ -788,7 +788,7 @@
               "name" : null,
               "ofType" : {
                 "kind" : "INPUT_OBJECT",
-                "name" : "DeleteTodoInput",
+                "name" : "DeleteProductsInput",
                 "ofType" : null
               }
             },
@@ -798,14 +798,14 @@
             "description" : null,
             "type" : {
               "kind" : "INPUT_OBJECT",
-              "name" : "ModelTodoConditionInput",
+              "name" : "ModelProductsConditionInput",
               "ofType" : null
             },
             "defaultValue" : null
           } ],
           "type" : {
             "kind" : "OBJECT",
-            "name" : "Todo",
+            "name" : "Products",
             "ofType" : null
           },
           "isDeprecated" : false,
@@ -817,7 +817,7 @@
         "possibleTypes" : null
       }, {
         "kind" : "INPUT_OBJECT",
-        "name" : "CreateTodoInput",
+        "name" : "CreateProductsInput",
         "description" : null,
         "fields" : null,
         "inputFields" : [ {
@@ -857,7 +857,7 @@
         "possibleTypes" : null
       }, {
         "kind" : "INPUT_OBJECT",
-        "name" : "ModelTodoConditionInput",
+        "name" : "ModelProductsConditionInput",
         "description" : null,
         "fields" : null,
         "inputFields" : [ {
@@ -886,7 +886,7 @@
             "name" : null,
             "ofType" : {
               "kind" : "INPUT_OBJECT",
-              "name" : "ModelTodoConditionInput",
+              "name" : "ModelProductsConditionInput",
               "ofType" : null
             }
           },
@@ -899,7 +899,7 @@
             "name" : null,
             "ofType" : {
               "kind" : "INPUT_OBJECT",
-              "name" : "ModelTodoConditionInput",
+              "name" : "ModelProductsConditionInput",
               "ofType" : null
             }
           },
@@ -909,7 +909,7 @@
           "description" : null,
           "type" : {
             "kind" : "INPUT_OBJECT",
-            "name" : "ModelTodoConditionInput",
+            "name" : "ModelProductsConditionInput",
             "ofType" : null
           },
           "defaultValue" : null
@@ -919,7 +919,7 @@
         "possibleTypes" : null
       }, {
         "kind" : "INPUT_OBJECT",
-        "name" : "UpdateTodoInput",
+        "name" : "UpdateProductsInput",
         "description" : null,
         "fields" : null,
         "inputFields" : [ {
@@ -959,7 +959,7 @@
         "possibleTypes" : null
       }, {
         "kind" : "INPUT_OBJECT",
-        "name" : "DeleteTodoInput",
+        "name" : "DeleteProductsInput",
         "description" : null,
         "fields" : null,
         "inputFields" : [ {
@@ -984,34 +984,34 @@
         "name" : "Subscription",
         "description" : null,
         "fields" : [ {
-          "name" : "onCreateTodo",
+          "name" : "onCreateProducts",
           "description" : null,
           "args" : [ ],
           "type" : {
             "kind" : "OBJECT",
-            "name" : "Todo",
+            "name" : "Products",
             "ofType" : null
           },
           "isDeprecated" : false,
           "deprecationReason" : null
         }, {
-          "name" : "onUpdateTodo",
+          "name" : "onUpdateProducts",
           "description" : null,
           "args" : [ ],
           "type" : {
             "kind" : "OBJECT",
-            "name" : "Todo",
+            "name" : "Products",
             "ofType" : null
           },
           "isDeprecated" : false,
           "deprecationReason" : null
         }, {
-          "name" : "onDeleteTodo",
+          "name" : "onDeleteProducts",
           "description" : null,
           "args" : [ ],
           "type" : {
             "kind" : "OBJECT",
-            "name" : "Todo",
+            "name" : "Products",
             "ofType" : null
           },
           "isDeprecated" : false,
@@ -1116,25 +1116,6 @@
         "enumValues" : null,
         "possibleTypes" : null
       }, {
-        "kind" : "ENUM",
-        "name" : "ModelSortDirection",
-        "description" : null,
-        "fields" : null,
-        "inputFields" : null,
-        "interfaces" : null,
-        "enumValues" : [ {
-          "name" : "ASC",
-          "description" : null,
-          "isDeprecated" : false,
-          "deprecationReason" : null
-        }, {
-          "name" : "DESC",
-          "description" : null,
-          "isDeprecated" : false,
-          "deprecationReason" : null
-        } ],
-        "possibleTypes" : null
-      }, {
         "kind" : "INPUT_OBJECT",
         "name" : "ModelBooleanInput",
         "description" : null,
@@ -1178,6 +1159,25 @@
         } ],
         "interfaces" : null,
         "enumValues" : null,
+        "possibleTypes" : null
+      }, {
+        "kind" : "ENUM",
+        "name" : "ModelSortDirection",
+        "description" : null,
+        "fields" : null,
+        "inputFields" : null,
+        "interfaces" : null,
+        "enumValues" : [ {
+          "name" : "ASC",
+          "description" : null,
+          "isDeprecated" : false,
+          "deprecationReason" : null
+        }, {
+          "name" : "DESC",
+          "description" : null,
+          "isDeprecated" : false,
+          "deprecationReason" : null
+        } ],
         "possibleTypes" : null
       }, {
         "kind" : "INPUT_OBJECT",
@@ -2066,6 +2066,23 @@
         "onFragment" : false,
         "onField" : true
       }, {
+        "name" : "deprecated",
+        "description" : null,
+        "locations" : [ "FIELD_DEFINITION", "ENUM_VALUE" ],
+        "args" : [ {
+          "name" : "reason",
+          "description" : null,
+          "type" : {
+            "kind" : "SCALAR",
+            "name" : "String",
+            "ofType" : null
+          },
+          "defaultValue" : "\"No longer supported\""
+        } ],
+        "onOperation" : false,
+        "onFragment" : false,
+        "onField" : false
+      }, {
         "name" : "aws_auth",
         "description" : "Directs the schema to enforce authorization on a field",
         "locations" : [ "FIELD_DEFINITION" ],
@@ -2178,23 +2195,6 @@
         "description" : "Tells the service this field/object has access authorized by a Lambda Authorizer.",
         "locations" : [ "OBJECT", "FIELD_DEFINITION" ],
         "args" : [ ],
-        "onOperation" : false,
-        "onFragment" : false,
-        "onField" : false
-      }, {
-        "name" : "deprecated",
-        "description" : null,
-        "locations" : [ "FIELD_DEFINITION", "ENUM_VALUE" ],
-        "args" : [ {
-          "name" : "reason",
-          "description" : null,
-          "type" : {
-            "kind" : "SCALAR",
-            "name" : "String",
-            "ofType" : null
-          },
-          "defaultValue" : "\"No longer supported\""
-        } ],
         "onOperation" : false,
         "onFragment" : false,
         "onField" : false
